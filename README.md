@@ -13,4 +13,4 @@ URL: https://magento.softwaretestingboard.com
 - Select any color.
 - Click on the add to cart button.
 - Validate that the text of the add button says “Added”.
-- Validate that the cart counter, next to the search input, says “1
+- Validate that the cart counter, next to the search input, says “1"
